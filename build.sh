@@ -1,3 +1,7 @@
+cd ..
+mv GCN_Cora-master GCN_Cora
+cd GCN_Cora
+
 mkdir data
 cd data 
 wget https://linqs-data.soe.ucsc.edu/public/lbc/cora.tgz
